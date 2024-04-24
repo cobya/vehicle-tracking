@@ -1,0 +1,1 @@
+python3 detection.py --source_video_path=Traffic0422-12PM.mp4 --target_video_path=Traffic0422-12PM-Processed.mp4 --target_csv_path=Traffic0422-12PM.csv --show=False
